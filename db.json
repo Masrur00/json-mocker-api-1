@@ -18,6 +18,50 @@
     }
   ],
   
-  "hotels":[
+  "jobs":[
+    {
+      "id": 1,
+      "company_name": "Office Lite",
+      "position": "Senior Application Engineer",
+      "contract": "Full Time",
+      "location": "Japan"
+      
+    },
+    {
+      "id": 2,
+      "company_name": "Blogr",
+      "position": "Haskell and PureScript Dev",
+      "contract": "Part Time",
+      "location": "United States"      
+    },
+    {
+      "id": 3,
+      "company_name": "Scoot",
+      "position": "Senior Application Engineer",
+      "contract": "Full Time",
+      "location": "United Kingdom"       
+    },
+    {
+      "id": 4,
+      "company_name": "Vector",
+      "position": "Midlevel Back End Engineer",
+      "contract": "Part Time",
+      "location": "Russia"       
+    },
+    {
+      "id": 5,
+      "company_name": "Creative",
+      "position": "Desktop Support Manager",
+      "contract": "Part Time",
+      "location": "Germany"        
+    },
+  
+    {
+      "id": 6,
+      "company_name": "Pod",
+      "position": "Remote DevOps Engineer",
+      "contract": "Part Time",
+      "location": "Japan"        
+    }
 ]
 }
